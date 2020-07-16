@@ -1,0 +1,6 @@
+name: Node Generator Module
+description: Creates the requested number of nodes in the system
+package: Custom
+type: module
+version: 1.0
+core: 8.x

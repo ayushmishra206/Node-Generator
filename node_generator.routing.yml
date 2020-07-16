@@ -1,0 +1,7 @@
+node.content:
+  path: "/node_generator"
+  defaults:
+    _form: '\Drupal\node_generator\Form\NodeGeneratorForm'
+    _title: "Node Generator"
+  requirements:
+    _permission: "access content"
